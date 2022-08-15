@@ -1,5 +1,6 @@
 package com.bridgelabz.in;
-public class Attandance {
+public class Attandance
+{
 
         public static void main(String[] args)
         {
