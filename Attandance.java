@@ -1,6 +1,6 @@
 package com.bridgelabz.in;
 public class Attandance
-{
+    {
 
         public static void main(String[] args)
         {
@@ -13,7 +13,8 @@ public class Attandance
                 System.out.println("Employee is Present");
 
             }
-            else {
+            else
+            {
                 System.out.println("Employee is Absent");
             }
 
